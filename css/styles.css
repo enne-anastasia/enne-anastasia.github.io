@@ -33,7 +33,7 @@ main > .intro {
 	font-size: 80%;
 	font-weight: 500;
 	position: absolute;
-	upper: 5%;
+	top: 5%;
 	left: 5%;
 	text-align: center;
 }
