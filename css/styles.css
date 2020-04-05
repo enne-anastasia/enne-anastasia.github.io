@@ -17,13 +17,21 @@ main > .intro {
 	font-weight: 500;
 }
 
+.icons-social i {
+	font-size: 200%;
+	padding: 30px;
+}
+
 .navline {
 	font-family: monospace;
 	font-size: 100%;
 	font-weight: 500;
 }
 
-.icons-social i {
-	font-size: 200%;
-	padding: 30px;
+.language {
+	font-family: monospace;
+	font-size: 80%;
+	font-weight: 500;
+	justify-content: right;
+	text-align: right;
 }
