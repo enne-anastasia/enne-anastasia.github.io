@@ -32,8 +32,9 @@ main > .intro {
 	font-family: monospace;
 	font-size: 80%;
 	font-weight: 500;
-	justify-content: flex-end;
-	align-content: flex-end;
-	text-align: right;
+	position: absolute;
+	bottom: 2px;
+	right: 2px;
+	text-align: center;
 	outline: 2px solid;
 }
