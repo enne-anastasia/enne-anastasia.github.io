@@ -17,6 +17,12 @@ main > .intro {
 	font-weight: 500;
 }
 
+.tagline {
+	font-family: monospace;
+	font-size: 200%;
+	font-weight: 500;
+}
+
 .icons-social i {
 	font-size: 200%;
 	padding: 30px;
