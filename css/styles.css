@@ -1,14 +1,14 @@
 html {
 	font-family: monospace;
 	font-size: 24pt;
-	text-align: center;
-	min-height: 95vh;
 }
 
 main {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	text-align: center;
+	min-height: 95vh;
 }
 
 main > .intro {
