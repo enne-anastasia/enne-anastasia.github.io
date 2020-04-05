@@ -1,9 +1,16 @@
 html {
 	font-family: monospace;
+	font-size: 12pt;
 }
 
 header > .intro {
 	font-family: monospace;
-	font-size: 96px;
+	font-size: 200%;
 	font-weight: 500;
+}
+
+nav > .navline {
+	font-family: monospace;
+	font-size: 100%;
+	
 }
