@@ -19,7 +19,7 @@ nav > .navline {
 	font-size: 200%;
 }
 
-main {
+body {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
