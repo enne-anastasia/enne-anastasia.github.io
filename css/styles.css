@@ -3,7 +3,7 @@ html {
 }
 
 main > .intro {
-	font-family: monospace;
-	font-size: 42px;
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 96px;
 	font-weight: 700;
 }
