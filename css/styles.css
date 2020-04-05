@@ -2,7 +2,7 @@ html {
 	font-family: monospace;
 }
 
-main > .intro {
+header > .intro {
 	font-family: monospace;
 	font-size: 96px;
 	font-weight: 500;
