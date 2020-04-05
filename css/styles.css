@@ -19,11 +19,14 @@ nav > .navline {
 	font-size: 200%;
 }
 
-body {
+main {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	text-align: center;
+}
+
+body {
 	padding: 0 30px;
 	min-height: 100vh;
 }
