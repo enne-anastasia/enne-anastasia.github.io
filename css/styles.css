@@ -5,8 +5,5 @@ html {
 main > .intro {
 	font-family: monospace;
 	font-size: 96px;
-	font-style: normal;
-	font-variant: normal;
 	font-weight: 500;
-	line-height: 106px;
 }
