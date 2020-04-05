@@ -18,3 +18,10 @@ nav > .navline {
 .icons-social i {
 	font-size: 200%;
 }
+
+main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
