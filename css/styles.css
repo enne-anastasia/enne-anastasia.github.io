@@ -1,5 +1,9 @@
-/* Fonts */
-
 html {
 	font-family: "Lucida Console", Monaco, monospace;
+}
+
+main > .intro {
+	font-family: monospace;
+	font-size: 42px;
+	font-weight: 700;
 }
