@@ -1,10 +1,11 @@
 html {
 	font-family: monospace;
+	font-size: 24pt;
 }
 
 header > .intro {
 	font-family: monospace;
-	font-size: 200%;
+	font-size: 400%;
 	font-weight: 500;
 }
 
