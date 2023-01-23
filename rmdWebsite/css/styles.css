@@ -1,0 +1,58 @@
+h1, h2, h3 {
+  text-align: center;
+}
+
+html {
+	font-family: monospace;
+	font-size: 24pt;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	min-height: 95vh;
+}
+
+.intro {
+	font-size: 300%;
+	font-weight: 500;
+}
+
+.tagline {
+	font-family: monospace;
+	font-size: 150%;
+	font-weight: 500;
+}
+
+.icons-social i {
+	font-size: 200%;
+	padding: 30px;
+}
+
+.navline {
+	font-family: monospace;
+	font-size: 100%;
+	font-weight: 500;
+}
+
+.language {
+	font-family: monospace;
+	font-size: 80%;
+	font-weight: 500;
+	position: absolute;
+	top: 5%;
+	left: 5%;
+	text-align: center;
+}
+
+.avatar {
+	vertical-align: middle;
+	width: 10%;
+	height: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px solid black;
+	border-radius: 50%;
+}
