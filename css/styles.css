@@ -1,55 +1,53 @@
 html {
 	font-family: monospace;
-	font-size: 24pt;
+	font-size: 20pt;
 }
 
 main {
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
+	justify-content: start;
 	text-align: center;
 	min-height: 95vh;
 }
 
 main > .intro {
 	font-family: monospace;
-	font-size: 300%;
-	font-weight: 500;
+	font-size: 150%;
+	font-weight: 100;
 }
 
 .tagline {
 	font-family: monospace;
-	font-size: 150%;
-	font-weight: 500;
+	font-size: 100%;
+	font-weight: 100;
 }
 
 .icons-social i {
-	font-size: 200%;
+	font-size: 100%;
 	padding: 30px;
 }
 
-.navline {
+.topnav {
 	font-family: monospace;
 	font-size: 100%;
-	font-weight: 500;
+	font-weight: 100;
 }
 
-.language {
-	font-family: monospace;
-	font-size: 80%;
-	font-weight: 500;
-	position: absolute;
-	top: 5%;
-	left: 5%;
+.topnav a {
+	display: inline-block;
+	text-decoration-line: none;
+	border-color: black;
+	background-color: none;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 15px 15px 15px 15px;
+	border-spacing: 5px;
+	padding: 5px;
+}
+
+hr {
+	width: 90%;
 	text-align: center;
-}
-
-.avatar {
-	vertical-align: middle;
-	width: 10%;
-	height: 10%;
-	margin-left: auto;
-	margin-right: auto;
-	border: 3px solid black;
-	border-radius: 50%;
+	border-top: 1px solid black;
 }

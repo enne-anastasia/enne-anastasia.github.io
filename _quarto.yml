@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Anastasiia Enne"
+  search: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    right: 
+      - href: https://github.com/enne-anastasia
+        icon: "github"
+      - href: https://www.instagram.com/enne.anastasia/
+        icon: "instagram"
+      - href: https://www.linkedin.com/in/anastasia-enne/
+        icon: "linkedin"
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
