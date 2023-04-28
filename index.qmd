@@ -1,7 +1,10 @@
 ---
 title: "Hi, I'm Anastasiia Enne"
 about:
-  template: jolla
+  id: about
+  template: solana
+  image: img/avatar.jpg
+  image-width: 200px
   image-shape: round
   links: 
     - href: https://github.com/enne-anastasia
@@ -18,4 +21,14 @@ about:
       text: "LinkedIn"
 ---
 
-I am a [PhD student](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=356658316) in [Theoretical Biology research group](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/index.xml) at [Bielefeld University](https://www.uni-bielefeld.de/) working on [consequences for environmental change responses](https://cmsedit.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/research/individualised-niches-in/index.xml).
+:::{#about}
+
+I'm a [PhD student](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=356658316) in [Theoretical Biology research group](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/index.xml) at [Bielefeld University](https://www.uni-bielefeld.de/) working on [consequences for environmental change responses](https://cmsedit.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/research/individualised-niches-in/index.xml).
+
+:::
+
+---
+
+## Recent news
+
+* I'm presenting our research project at the [International Society for Ecological Modelling Global Conference](https://www.elsevier.com/events/conferences/international-society-for-ecological-modelling-global-conference) (2-6 May 2023, Toronto)
