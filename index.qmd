@@ -28,7 +28,3 @@ I'm a [PhD student](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.js
 :::
 
 ---
-
-## Recent news
-
-* I'm presenting our research project at the [International Society for Ecological Modelling Global Conference](https://www.elsevier.com/events/conferences/international-society-for-ecological-modelling-global-conference) (2-6 May 2023, Toronto)
