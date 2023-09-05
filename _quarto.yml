@@ -9,17 +9,20 @@ website:
   search: false
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-    right: 
-      - href: https://github.com/enne-anastasia
-        icon: "github"
-      - href: https://www.instagram.com/enne.anastasia/
-        icon: "instagram"
-      - href: https://t.me/enne_anastasia
-        icon: "telegram"
-      - href: https://www.linkedin.com/in/enne-anastasia/
-        icon: "linkedin"
+      - text: Contacts
+        menu: 
+          - href: https://github.com/enne-anastasia
+            icon: "github"
+            text: "GitHub"
+          - href: https://www.instagram.com/enne.anastasia/
+            icon: "instagram"
+            text: "Instagram"
+          - href: https://t.me/enne_anastasia
+            icon: "telegram"
+            text: "Telegram"
+          - href: https://www.linkedin.com/in/enne-anastasia/
+            icon: "linkedin"
+            text: "LinkedIn"
 
 format:
   html:
