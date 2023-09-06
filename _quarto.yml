@@ -8,7 +8,7 @@ website:
   title: "Anastasiia Enne"
   search: false
   navbar:
-    right: 
+    tools: 
       - href: https://github.com/enne-anastasia
         icon: "github"
       - href: https://t.me/enne_anastasia
