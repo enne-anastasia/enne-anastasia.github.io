@@ -8,21 +8,15 @@ website:
   title: "Anastasiia Enne"
   search: false
   navbar:
-    left:
-      - text: Contacts
-        menu: 
-          - href: https://github.com/enne-anastasia
-            icon: "github"
-            text: "GitHub"
-          - href: https://t.me/enne_anastasia
-            icon: "telegram"
-            text: "Telegram"
-          - href: https://www.linkedin.com/in/enne-anastasia/
-            icon: "linkedin"
-            text: "LinkedIn"
-          - href: mailto:anastasiia.enne@uni-bielefeld.de
-            icon: "envelope-fill"
-            text: "E-mail"
+    right: 
+      - href: https://github.com/enne-anastasia
+        icon: "github"
+      - href: https://t.me/enne_anastasia
+        icon: "telegram"
+      - href: https://www.linkedin.com/in/enne-anastasia/
+        icon: "linkedin"
+      - href: mailto:anastasiia.enne@uni-bielefeld.de
+        icon: "envelope-fill"
 
 format:
   html:
