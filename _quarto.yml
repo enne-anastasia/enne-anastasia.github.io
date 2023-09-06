@@ -20,6 +20,9 @@ website:
           - href: https://www.linkedin.com/in/enne-anastasia/
             icon: "linkedin"
             text: "LinkedIn"
+          - href: mailto:anastasiia.enne@uni-bielefeld.de
+            icon: "envelope-fill"
+            text: "E-mail"
 
 format:
   html:
