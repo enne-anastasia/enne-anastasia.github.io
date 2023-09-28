@@ -10,12 +10,12 @@ about:
     - href: https://github.com/enne-anastasia
       icon: "github"
       text: "Github"
-    - href: https://t.me/enne_anastasia
-      icon: "telegram"
-      text: "Telegram"
     - href: https://www.linkedin.com/in/enne-anastasia/
       icon: "linkedin"
       text: "LinkedIn"
+    - href: https://t.me/enne_anastasia
+      icon: "telegram"
+      text: "Telegram"
     - href: mailto:anastasiia.enne@uni-bielefeld.de
       icon: "envelope-fill"
       text: "E-mail"

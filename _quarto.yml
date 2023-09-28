@@ -11,10 +11,10 @@ website:
     tools: 
       - href: https://github.com/enne-anastasia
         icon: "github"
-      - href: https://t.me/enne_anastasia
-        icon: "telegram"
       - href: https://www.linkedin.com/in/enne-anastasia/
         icon: "linkedin"
+      - href: https://t.me/enne_anastasia
+        icon: "telegram"
       - href: mailto:anastasiia.enne@uni-bielefeld.de
         icon: "envelope-fill"
 
