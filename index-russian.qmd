@@ -21,6 +21,12 @@ about:
       text: "E-mail"
 ---
 
+::: {.lang}
+
+[{{< fa globe >}} EN](../index.html)
+
+:::
+
 :::{#about}
 
 Я занимаюсь теоретической биологией в качестве [аспирантки](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=356658316) в [исследовательской группе](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/index.xml) [университета Билефельда](https://www.uni-bielefeld.de/). Основное направление моей работы связано с математическим моделированием [последствий изменения окружающей среды](https://cmsedit.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/research/individualised-niches-in/index.xml).
