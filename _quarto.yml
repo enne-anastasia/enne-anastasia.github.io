@@ -3,6 +3,7 @@ project:
   output-dir: docs
   render: 
     - index.qmd
+    - index-ru.qmd
 
 website:
   title: "Anastasiia Enne"
