@@ -1,0 +1,22 @@
+---
+title: "Привет, я Анастасия Еннэ"
+about:
+  id: about
+  template: solana
+  image: img/avatar.jpg
+  image-width: 200px
+  image-shape: round
+  links: 
+    - href: https://github.com/enne-anastasia
+      icon: "github"
+      text: "Github"
+    - href: https://www.linkedin.com/in/enne-anastasia/
+      icon: "linkedin"
+      text: "LinkedIn"
+    - href: https://t.me/enne_anastasia
+      icon: "telegram"
+      text: "Telegram"
+    - href: mailto:anastasiia.enne@uni-bielefeld.de
+      icon: "envelope-fill"
+      text: "E-mail"
+---
