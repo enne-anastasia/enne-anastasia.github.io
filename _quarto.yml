@@ -1,22 +1,5 @@
 project:
   type: website
-  output-dir: docs
-  render: 
-    - index.qmd
-
-website:
-  title: "Anastasiia Enne"
-  search: false
-  navbar:
-    tools: 
-      - href: https://github.com/enne-anastasia
-        icon: "github"
-      - href: https://www.linkedin.com/in/enne-anastasia/
-        icon: "linkedin"
-      - href: https://t.me/enne_anastasia
-        icon: "telegram"
-      - href: mailto:anastasiia.enne@uni-bielefeld.de
-        icon: "envelope-fill"
 
 format:
   html:
