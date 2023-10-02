@@ -1,0 +1,18 @@
+/* css styles */
+body {
+  background: #FFFAFA;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.dropdown-menu {
+  background-color: #FFFAFA;
+  border-style: solid;
+  border-color: #000000;
+}
