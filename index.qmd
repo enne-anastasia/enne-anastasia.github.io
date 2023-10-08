@@ -23,7 +23,7 @@ about:
 
 ::: {.lang}
 
-[{{< fa globe >}} RU](ru/index.html)
+[{{< fa globe >}} RU](ru/)
 
 :::
 
