@@ -1,7 +1,7 @@
 project:
   output-dir: docs/ru
   render: 
-    - index-russian.qmd
+    - index-ru.qmd
 
 website:
   title: "Анастасия Еннэ"
