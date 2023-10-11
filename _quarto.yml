@@ -3,6 +3,8 @@ project:
 
 format:
   html:
-    theme: lux
+    theme: 
+     - lux
+     - styles.scss
     css: styles.css
     toc: true
