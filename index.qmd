@@ -21,16 +21,14 @@ about:
       text: "E-mail"
 ---
 
-::: {.lang}
+::: lang
 
-[{{< fa globe >}} RU](ru/)
 
+[🇷🇺 RU](ru/)
 :::
 
-:::{#about}
-
+::: {#about}
 I'm a [PhD student](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=356658316) in [Theoretical Biology research group](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/index.xml) at [Bielefeld University](https://www.uni-bielefeld.de/) working on [consequences for environmental change responses](https://cmsedit.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/research/individualised-niches-in/index.xml).
-
 :::
 
----
+------------------------------------------------------------------------
