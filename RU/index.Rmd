@@ -1,0 +1,13 @@
+---
+title: "Анастасия Еннэ"
+---
+
+```{r, echo=FALSE, fig.align='center', out.width="15%"}
+knitr::include_graphics(here::here("img", "avatar.png"))
+```
+
+<h1 style="text-align: center;">Привет, я Анастасия Еннэ</h1>
+
+<p style="text-align: center;">Я занимаюсь теоретической биологией в качестве [аспирантки](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=356658316) в [исследовательской группе](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/index.xml) [университета Билефельда](https://www.uni-bielefeld.de/). Основное направление моей работы связано с математическим моделированием [последствий изменения окружающей среды](https://cmsedit.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/research/individualised-niches-in/index.xml).</p>
+
+---

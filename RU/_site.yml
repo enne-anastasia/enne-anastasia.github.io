@@ -1,0 +1,18 @@
+name: "enne-anastasia"
+output_dir: "../_site/RU"
+output:
+  html_document:
+    theme: paper
+    css: ../css/style.css
+    mathjax: null
+navbar:
+  title: "Анастасия Еннэ"
+  left:
+  right:
+    - text: "🇬🇧EN"
+      href: ../index.html
+    - text: "🇩🇪DE"
+      href: ../DE/index.html
+    - text: "🇷🇺RU"
+      href: index.html
+lang: ru

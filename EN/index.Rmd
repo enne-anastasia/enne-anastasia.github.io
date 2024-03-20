@@ -1,0 +1,16 @@
+---
+title: "Anastasiia Enne"
+---
+
+```{r, echo=FALSE, fig.align='center', out.width="15%"}
+knitr::include_graphics(here::here("img", "avatar.png"))
+```
+
+<h1 style="text-align: center;">
+Hi, I'm Anastasiia Enne
+</h1>
+<p style="text-align: center;">
+I'm a [PhD student](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=356658316) in [Theoretical Biology research group](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/index.xml) at [Bielefeld University](https://www.uni-bielefeld.de/) working on [consequences for environmental change responses](https://cmsedit.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/research/individualised-niches-in/index.xml).
+</p>
+
+---
