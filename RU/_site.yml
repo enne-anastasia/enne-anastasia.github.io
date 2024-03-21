@@ -1,5 +1,5 @@
 name: "enne-anastasia"
-output_dir: "../_site/RU"
+output_dir: "../docs/RU"
 output:
   html_document:
     theme: paper
