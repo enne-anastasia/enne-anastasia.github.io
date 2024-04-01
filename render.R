@@ -2,7 +2,7 @@ library(here)
 library(rmarkdown)
 
 rmarkdown::render_site(
-  here::here("EN", "index.Rmd"),
+  here::here("index.Rmd"),
   encoding = "UTF-8"
 )
 rmarkdown::render_site(

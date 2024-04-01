@@ -1,9 +1,14 @@
 name: "enne-anastasia"
-output_dir: "../docs"
+output_dir: "docs"
+exclude:
+- README.html
+- separate_navbar
+- DE
+- RU
 output:
   html_document:
     theme: paper
-    css: ../css/style.css
+    css: css/style.css
     mathjax: null
 navbar:
   title: "Anastasiia Enne"

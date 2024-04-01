@@ -11,3 +11,18 @@ knitr::include_graphics(here::here("img", "avatar.png"))
 <p style="text-align: center;">Ich bin [Doktorandin](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=356658316) im Bereich [Theoretische Biologie](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/index.xml) an der [Universität Bielefeld](https://www.uni-bielefeld.de/).  Der Schwerpunkt meiner Untersuchung liegt auf der [mathematischen Modellierung der Auswirkungen von Umweltveränderungen](https://cmsedit.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/research/individualised-niches-in/index.xml).</p>
 
 ---
+
+<p style="text-align: center;">
+  <a href="https://github.com/enne-anastasia" class="navigation-tool">
+    <i class="bi bi-github"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/enne-anastasia/" class="navigation-tool">
+    <i class="bi bi-linkedin"></i>
+  </a>
+  <a href="https://t.me/enne_anastasia" class="navigation-tool">
+    <i class="bi bi-telegram"></i>
+  </a>
+  <a href="mailto:anastasiia.enne@uni-bielefeld.de" class="navigation-tool">
+    <i class="bi bi-envelope-fill"></i>
+  </a>
+</p>
