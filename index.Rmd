@@ -2,8 +2,8 @@
 title: "Anastasiia Enne"
 ---
 
-```{r, echo=FALSE, fig.align='center', out.width="15%"}
-knitr::include_graphics(here::here("img", "avatar.png"))
+```{r, echo=FALSE, fig.align='center', out.width="25%"}
+knitr::include_graphics(here::here("img", "avatar.webp"))
 ```
 
 <h1 style="text-align: center;">
