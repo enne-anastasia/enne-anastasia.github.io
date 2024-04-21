@@ -8,11 +8,4 @@ output:
 navbar:
   title: "Анастасия Еннэ"
   left:
-  right:
-    - text: "🇬🇧EN"
-      href: ../index.html
-    - text: "🇩🇪DE"
-      href: ../DE/index.html
-    - text: "🇷🇺RU"
-      href: index.html
 lang: ru

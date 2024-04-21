@@ -2,6 +2,14 @@
 title: "Анастасия Еннэ"
 ---
 
+<div class="language">
+  <button class="languagebtn">🇷🇺 RU</button>
+  <div class="language-content">
+  <a href="../index.html">🇬🇧 EN</a>
+  <a href="../DE/index.html">🇩🇪 DE</a>
+  </div>
+</div>
+
 ```{r, echo=FALSE, fig.align='center', out.width="25%"}
 knitr::include_graphics(here::here("img", "avatar.webp"))
 ```
