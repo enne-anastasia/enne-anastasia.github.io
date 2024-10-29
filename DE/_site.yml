@@ -4,8 +4,16 @@ output:
   html_document:
     theme: paper
     css: ../css/style.css
-    mathjax: null
 navbar:
   title: "Anastasiia Enne"
   left:
+  right:
+    - icon: bi-github
+      href: https://github.com/enne-anastasia
+    - icon: bi-linkedin
+      href: https://www.linkedin.com/in/enne-anastasia/
+    - icon: bi-telegram
+      href: https://t.me/enne_anastasia
+    - icon: bi-envelope-fill
+      href: mailto:anastasiia.enne@uni-bielefeld.de
 lang: de
