@@ -14,9 +14,12 @@ title: "Anastasiia Enne"
 knitr::include_graphics(here::here("img", "avatar.webp"))
 ```
 
-<h1 style="text-align: center;">Hallo, ich bin Anastasiia Enne</h1>
+<h1 style="text-align: center;">Anastasiia Enne</h1>
+<h2 style="text-align: center;">Doctorandin @ Universität Bielefeld</h2>
 
-<p style="text-align: center;">Ich bin [Doktorandin](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=356658316) im Bereich [Theoretische Biologie](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/index.xml) an der [Universität Bielefeld](https://www.uni-bielefeld.de/).  Der Schwerpunkt meiner Untersuchung liegt auf der [mathematischen Modellierung der Auswirkungen von Umweltveränderungen](https://cmsedit.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/research/individualised-niches-in/index.xml).</p>
+---
+
+<p style="text-align: center;">Hallo, ich bin Anastasiia. Ich bin [Doktorandin](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=356658316) im Bereich [Theoretische Biologie](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/index.xml) an der [Universität Bielefeld](https://www.uni-bielefeld.de/).  Der Schwerpunkt meiner Untersuchung liegt auf der [mathematischen Modellierung der Auswirkungen von Umweltveränderungen](https://cmsedit.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/research/individualised-niches-in/index.xml).</p>
 
 ---
 
