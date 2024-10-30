@@ -12,6 +12,10 @@ output:
 navbar:
   title: "Anastasiia Enne"
   left:
+    - text: About me
+      menu:
+        - text: Resume
+          href: about-me_resume.html
   right:
     - icon: bi-github
       href: https://github.com/enne-anastasia
