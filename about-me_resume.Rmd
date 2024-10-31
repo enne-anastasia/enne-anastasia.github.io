@@ -1,5 +1,9 @@
 ---
 title: "Resume"
+output:
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 <div class="language">
@@ -10,20 +14,7 @@ title: "Resume"
 
 # Resume
 
-::: columns
-::: {.column width="25%"}
-<ul style="list-style-type:none;">
- <!-- <li>[<i class="bi bi-download"></i> Download pdf]()</li> -->
- <li>[<i class="bi bi-person-workspace"></i> Work experience](#work)</li>
- <li>[<i class="bi bi-mortarboard-fill"></i> Education](#education)</li>
-</ul>
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="65%"}
-## <i class="bi bi-person-workspace"></i> Work experience {#work}
+## <i class="bi bi-person-workspace"></i> Work experience
 
 <ul style="list-style-type:none;">
   <li><i class="bi bi-person-workspace"></i> PhD student <br>
@@ -33,16 +24,10 @@ title: "Resume"
 
 ---
 
-## <i class="bi bi-mortarboard-fill"></i> Education {#education}
+## <i class="bi bi-mortarboard-fill"></i> Education
 
 <ul style="list-style-type:none;">
-  <li><i class="bi bi-mortarboard-fill"></i> PhD <br>
-  <p style="font-size:80%">Bielefeld University <br>
-  May 2022 &ndash; Present</p></li>
   <li><i class="bi bi-mortarboard-fill"></i> Master's degree in Mathematics <br>
   <p style="font-size:80%">Petrozavodsk State University, Russia <br>
   September 2017 &ndash; August 2019</p></li>
 </ul>
-
-:::
-:::
