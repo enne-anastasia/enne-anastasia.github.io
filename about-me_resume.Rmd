@@ -10,6 +10,7 @@ output:
 <div class="language">
   <button class="languagebtn">🇬🇧 EN</button>
   <div class="language-content">
+  <a href="DE/about-me_resume.html">🇩🇪 DE</a>
   </div>
 </div>
 
@@ -19,7 +20,7 @@ output:
 
 <ul style="list-style-type:none;">
   <li><i class="bi bi-person-workspace"></i> PhD student <br>
-  <p style="font-size:80%">Bielefeld University<br>
+  <p style="font-size:80%">Bielefeld University, Germany <br>
   May 2022 &ndash; Present</p></li>
 </ul>
 

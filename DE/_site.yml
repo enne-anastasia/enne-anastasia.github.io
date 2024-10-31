@@ -7,6 +7,10 @@ output:
 navbar:
   title: "Anastasiia Enne"
   left:
+    - text: Über mich
+      menu:
+        - text: Lebenslauf
+          href: about-me_resume.html
   right:
     - icon: bi-github
       href: https://github.com/enne-anastasia
