@@ -16,6 +16,8 @@ navbar:
       menu:
         - text: Resume
           href: about-me_resume.html
+        - text: CV
+          href: about-me_cv.html
   right:
     - icon: bi-github
       href: https://github.com/enne-anastasia

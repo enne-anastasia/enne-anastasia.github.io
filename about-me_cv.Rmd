@@ -1,0 +1,60 @@
+---
+title: "CV"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+---
+
+<div class="language">
+  <button class="languagebtn">🇬🇧 EN</button>
+</div>
+
+# CV
+
+## <i class="bi bi-person-workspace"></i> Work experience
+
+<ul style="list-style-type:none;">
+  <li><i class="bi bi-person-workspace"></i> PhD student <br>
+  <p style="font-size:80%">Bielefeld University, Germany <br>
+  May 2022 &ndash; Present</p></li>
+  <li><i class="bi bi-person-workspace"></i> Co Manager <br>
+  <p style="font-size:80%">International Mathematical Tournament of Towns, Moscow, Russia (remote) <br>
+  July 2021 &ndash; April 2022</p></li>
+  <li> <i class="bi bi-person-workspace"></i> Teacher <br>
+  <p style="font-size:80%">Educational centre for children and youth, Petrozavodsk, Russia <br>
+  September 2018 &ndash; August 2021
+  </p></li>
+  <li><i class="bi bi-person-workspace"></i> Lecturer <br>
+  <p style="font-size:80%">Petrozavodsk State University, Petrozavodsk, Russia <br>
+  September 2019 &ndash; June 2021
+  </p></li>
+</ul>
+
+---
+
+## <i class="bi bi-mortarboard-fill"></i> Education
+
+<ul style="list-style-type:none;">
+  <li><i class="bi bi-mortarboard-fill"></i> Master's degree (with honors) in Mathematics <br>
+  <p style="font-size:80%">Petrozavodsk State University, Russia <br>
+  September 2017 &ndash; August 2019</p></li>
+  <li><i class="bi bi-mortarboard-fill"></i> Bachelor's degree in Mathematics <br>
+  <p style="font-size:80%">Petrozavodsk State University, Russia <br>
+  September 2013 &ndash; August 2017
+  </p></li>
+</ul>
+
+---
+
+## <i class="bi bi-tools"></i> Skills
+
+<ul style="list-style-type:none;">
+  <li><i class="bi bi-tools"></i> Basic: <br>
+  <p style="font-size:80%"> Docker
+  </p></li>
+  <li><i class="bi bi-tools"></i> Intermediate: <br>
+  <p style="font-size:80%"> R, LaTeX
+  </p></li>
+</ul>

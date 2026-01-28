@@ -29,7 +29,7 @@ output:
 ## <i class="bi bi-mortarboard-fill"></i> Education
 
 <ul style="list-style-type:none;">
-  <li><i class="bi bi-mortarboard-fill"></i> Master's degree in Mathematics <br>
+  <li><i class="bi bi-mortarboard-fill"></i> Master's degree (with honors) in Mathematics <br>
   <p style="font-size:80%">Petrozavodsk State University, Russia <br>
   September 2017 &ndash; August 2019</p></li>
 </ul>

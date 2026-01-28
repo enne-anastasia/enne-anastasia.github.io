@@ -11,7 +11,7 @@
 
 
 
-<title>Anastasiia Enne</title>
+<title>CV</title>
 
 <script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -220,6 +223,75 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
 
 </head>
 
@@ -227,6 +299,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -293,50 +375,92 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Anastasiia Enne</h1>
+<h1 class="title toc-ignore">CV</h1>
 
 </div>
 
 
 <div class="language">
-<button class="languagebtn">🇬🇧 EN</button>
-<div class="language-content">
-<a href="DE/index.html">🇩🇪 DE</a> <a href="RU/index.html">🇷🇺 RU</a>
+<p><button class="languagebtn">🇬🇧 EN</button></p>
+</div>
+<div id="cv" class="section level1">
+<h1>CV</h1>
+<div id="work-experience" class="section level2">
+<h2><i class="bi bi-person-workspace"></i> Work experience</h2>
+<ul style="list-style-type:none;">
+<li>
+<i class="bi bi-person-workspace"></i> PhD student <br>
+<p style="font-size:80%">
+Bielefeld University, Germany <br> May 2022 – Present
+</p>
+</li>
+<li>
+<i class="bi bi-person-workspace"></i> Co Manager <br>
+<p style="font-size:80%">
+International Mathematical Tournament of Towns, Moscow, Russia (remote)
+<br> July 2021 – April 2022
+</p>
+</li>
+<li>
+<i class="bi bi-person-workspace"></i> Teacher <br>
+<p style="font-size:80%">
+Educational centre for children and youth, Petrozavodsk, Russia <br>
+September 2018 – August 2021
+</p>
+</li>
+<li>
+<i class="bi bi-person-workspace"></i> Lecturer <br>
+<p style="font-size:80%">
+Petrozavodsk State University, Petrozavodsk, Russia <br> September 2019
+– June 2021
+</p>
+</li>
+</ul>
+<hr />
+</div>
+<div id="education" class="section level2">
+<h2><i class="bi bi-mortarboard-fill"></i> Education</h2>
+<ul style="list-style-type:none;">
+<li>
+<i class="bi bi-mortarboard-fill"></i> Master’s degree (with honors) in
+Mathematics <br>
+<p style="font-size:80%">
+Petrozavodsk State University, Russia <br> September 2017 – August 2019
+</p>
+</li>
+<li>
+<i class="bi bi-mortarboard-fill"></i> Bachelor’s degree in Mathematics
+<br>
+<p style="font-size:80%">
+Petrozavodsk State University, Russia <br> September 2013 – August 2017
+</p>
+</li>
+</ul>
+<hr />
+</div>
+<div id="skills" class="section level2">
+<h2><i class="bi bi-tools"></i> Skills</h2>
+<ul style="list-style-type:none;">
+<li>
+<i class="bi bi-tools"></i> Basic: <br>
+<p style="font-size:80%">
+Docker
+</p>
+</li>
+<li>
+<i class="bi bi-tools"></i> Intermediate: <br>
+<p style="font-size:80%">
+R, LaTeX
+</p>
+</li>
+</ul>
 </div>
 </div>
-<p><img src="img/avatar.webp" width="25%" style="display: block; margin: auto;" /></p>
-<h1 style="text-align: center;">
-Anastasiia Enne
-</h1>
-<h2 style="text-align: center;">
-PhD student @ Bielefeld University
-</h2>
-<hr />
-<p style="text-align: center;">
-Hi, I’m Anastasiia. I am a <a
-href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=356658316">PhD
-student</a> in <a
-href="https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/index.xml">Theoretical
-Biology research group</a> at <a
-href="https://www.uni-bielefeld.de/">Bielefeld University</a> working on
-<a
-href="https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/theoretical/research/individualised-niches-in/index.xml">consequences
-for environmental change responses</a>.
-</p>
-<hr />
-<p style="text-align: center;">
-<a href="https://github.com/enne-anastasia" class="navigation-tool">
-<i class="bi bi-github"></i> </a>
-<a href="https://www.linkedin.com/in/enne-anastasia/" class="navigation-tool">
-<i class="bi bi-linkedin"></i> </a>
-<a href="https://t.me/enne_anastasia" class="navigation-tool">
-<i class="bi bi-telegram"></i> </a>
-<a href="mailto:anastasiia.enne@uni-bielefeld.de" class="navigation-tool">
-<i class="bi bi-envelope-fill"></i> </a>
-</p>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -369,6 +493,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
